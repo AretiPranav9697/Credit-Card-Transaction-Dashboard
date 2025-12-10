@@ -6,6 +6,6 @@ Identified top-performing card types, categories (shopping, travel, EMI) and cus
 Analyzed monthly spending trends, category distribution, and gender/age-based revenue patterns.
 
 ## Dataset used:
-
+- <a href="https://github.com/AretiPranav9697/Credit-Card-Transaction-Dashboard/blob/main/credit_card.csv">Dataset</a>
 ## DashBoard :
 - <a href="https://github.com/AretiPranav9697/Credit-Card-Transaction-Dashboard/blob/main/Credit%20card%20project.pbix">Dataset</a>
