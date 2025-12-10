@@ -11,3 +11,4 @@ Analyzed monthly spending trends, category distribution, and gender/age-based re
 - <a href="https://github.com/AretiPranav9697/Credit-Card-Transaction-Dashboard/blob/main/Credit%20card%20project.pbix">Dataset</a>
 ## DashBoard:
 - <a href="https://github.com/AretiPranav9697/Credit-Card-Transaction-Dashboard/blob/main/Screenshot%202025-12-10%20224356.png">Dataset</a>
+<img width="1323" height="747" alt="Screenshot 2025-12-10 224356" src="https://github.com/user-attachments/assets/bad6bb69-6b66-4dab-b3f5-b321c2583245" />
